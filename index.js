@@ -14,11 +14,11 @@ function holidayCountdown(days, holiday) {
 }
 
 function happyHolidays() {
-  return Happy Holidays!
+  return "Happy Holidays!"
 }
 
 
 function happyHolidaysTo() {
-return `Happy $holiday, $name!'
+  return `Happy $holiday, $name!'
 
 }
