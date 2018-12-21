@@ -1,5 +1,5 @@
 // write your code below!
-<<<<<<< HEAD
+HEAD
 function happyHolidays(){return 'Happy Holidays!'}
 function happyHolidayTo(holiday, name) {return `Happy ${holiday}, ${name}!`}
 function holidayCountdown(days, holiday) {return `It's ${days} days until ${holiday}!`}
